@@ -22,3 +22,10 @@ one instead of another?
 >Branches are paths along which file changes are committed. They allow to 
 >develop features independently from the master branch. Later the can be merged
 >into another branch.
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+>In case of no internet connection all recent changes made to the remote 
+>repository would be present in the local repository. These changes can be
+>compared to the master branch or merged into it.
