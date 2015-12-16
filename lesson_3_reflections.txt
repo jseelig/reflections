@@ -37,3 +37,9 @@ and what would be harder?
 >git, but in the case of collaboration it would be hard to combine the work
 >while keeping an always working master branch. Also the version control would
 >be missing or would offer much less features.
+
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+>Making changes in a separate branch has the advantage to always have a working
+>code version. Also one can switch between branches. 
